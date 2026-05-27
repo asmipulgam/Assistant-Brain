@@ -1,0 +1,15 @@
+langchain
+langgraph
+langchain-anthropic
+langchain-openai
+chromadb
+streamlit
+google-auth
+google-auth-oauthlib
+google-api-python-client
+tavily-python
+python-dotenv
+arxiv
+gtts
+pytest
+flake8
