@@ -2,7 +2,6 @@
 
 ![Assistant Brain Demo](assets/demo.gif)
 
-[![Build Status](https://github.com/asmipulgam/assistant-brain/actions/workflows/ci.yml/badge.svg)](https://github.com/asmipulgam/assistant-brain/actions)
 [![Python](https://img.shields.io/badge/python-3.11+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![LangGraph](https://img.shields.io/badge/built%20with-LangGraph-purple)](https://github.com/langchain-ai/langgraph)
